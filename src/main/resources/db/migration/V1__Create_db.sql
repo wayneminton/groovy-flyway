@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS persons (
+  id SERIAL,
+  name VARCHAR(126)
+);
+
